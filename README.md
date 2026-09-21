@@ -4,12 +4,12 @@ DevOps, Web & Mobile Engineer · Vienna
 
 I build the software people use and the infrastructure it runs on: web and mobile frontends, the pipelines that ship them and the platforms they run on. Before that, data engineering and NLP, and before that, comparative literature.
 
-[Website](https://github.com/f-klement/florian-klement-page) · [LinkedIn](https://www.linkedin.com/in/fklement/)
+[florianklement.at](https://florianklement.at) · [LinkedIn](https://www.linkedin.com/in/fklement/)
 
 ## Projects
 
 - **[Endpaper](https://github.com/f-klement/endpaper)**: a self-hosted catalogue for the books you share, at home or in an archive. React web client on a FastAPI backend, React Native app in development.
-- **[Private infrastructure](https://github.com/f-klement/florian-klement-page/blob/main/infra.html)**: a four-node Kubernetes platform backed by TrueNAS, reproducible from code. GitOps delivery with Argo CD, a full observability stack and layered security feeding one SIEM.
+- **[Private infrastructure](https://florianklement.at/infra)**: a four-node Kubernetes platform backed by TrueNAS, reproducible from code. GitOps delivery with Argo CD, a full observability stack and layered security feeding one SIEM.
 - **[Gothic fiction pattern detection](https://github.com/f-klement/gothic-fiction-pattern-detection)**: master's thesis applying distant reading to a corpus of gothic fiction with topic modelling, named entity recognition and network analysis.
 - **[TrueNAS hardware control](https://github.com/f-klement/trueNAS-config)**: fan and status light control for a UGREEN DXP4800 Plus running TrueNAS SCALE.
 
