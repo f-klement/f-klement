@@ -9,7 +9,7 @@ I build the software people use and the infrastructure it runs on: web and mobil
 ## Projects
 
 - **[Endpaper](https://github.com/f-klement/endpaper)**: a self-hosted catalogue for the books you share, at home or in an archive. React web client on a FastAPI backend, React Native app in development.
-- **[Private infrastructure](https://florianklement.at/infra)**: a four-node Kubernetes platform backed by TrueNAS, reproducible from code. GitOps delivery with Argo CD, a full observability stack and layered security feeding one SIEM.
+- **[Private infrastructure](https://florianklement.at/infra)**: a five-node Kubernetes platform backed by TrueNAS, reproducible from code. GitOps delivery with Argo CD, a full observability stack and layered security feeding one SIEM.
 - **[Errata](https://github.com/f-klement/errata)**: a checker for the claims a repository makes about itself. Documentation that has drifted, versions that disagree between files, steps that no longer work. Written in Go, checks are small programs in any language and run on every push.
 - **[Gothic fiction pattern detection](https://github.com/f-klement/gothic-fiction-pattern-detection)**: master's thesis applying distant reading to a corpus of gothic fiction with topic modelling, named entity recognition and network analysis.
 - **[TrueNAS hardware control](https://github.com/f-klement/trueNAS-config)**: fan and status light control for a UGREEN DXP4800 Plus running TrueNAS SCALE.
